@@ -1,0 +1,181 @@
+//const double txtSizeTitle = 20;
+//const double txtSizeHeading = 18;
+//const double txtSizeSubHeading = 15;
+//const double txtSizeContent = 13;
+
+const double txtSize12px = 12;
+const double txtSize13px = 13;
+const double txtSize14px = 14;
+const double txtSize15px = 15;
+const double txtSize16px = 16;
+const double txtSize18px = 18;
+const double txtSize20px = 20;
+const double txtSize22px = 22;
+const double txtSize21px = 21;
+const double txtSize24px = 24;
+const double txtSize28px = 28;
+
+/// Start: New app design system spacing scheme
+// margin and padding with spacing
+const double spacing_xxs = 2;
+const double spacing_xs = 4;
+const double spacing_m = 8;
+const double spacing_x6 = 6;
+const double spacing_xl = 12;
+const double spacing_xxl_2 = 16;
+const double spacing_xxl_4 = 20;
+const double spacing_xxl_6 = 24;
+const double spacing_xxl_7 = 26;
+const double spacing_xxl_8 = 28;
+const double spacing_xxl_10 = 32;
+const double spacing_xxl_12 = 36;
+const double spacing_xxl_14 = 40;
+const double spacing_xxl_16 = 44;
+const double spacing_xxl_18 = 48;
+const double spacing_xxl_20 = 52;
+const double spacing_xxl_22 = 56;
+const double spacing_xxl_24 = 60;
+const double spacing_xxl_26 = 64;
+const double spacing_xxl_28 = 68;
+const double spacing_xxl_30 = 72;
+const double spacing_xxl_34 = 80;
+
+const double radius_mini = 2;
+const double radius_small = 4;
+const double radius_medium = 8;
+const double radius_large = 12;
+const double radius_xlarge = 24;
+const double radius_2xlarge = 48;
+const double radius_xxlarge = 64;
+const double radius_3xlarge = 100;
+
+const double elevation1 = 1;
+const double elevation2 = 2;
+const double elevation3 = 3;
+const double elevation4 = 4;
+const double elevation8 = 8;
+
+/// Start: New app design system spacing scheme
+
+const double margin_extrahuge = 125;
+const double margin_superhuge = 108;
+const double margin_huge = 80;
+const double margin_xlarge = 56;
+const double margin_large = 32;
+const double margin_medium = 24;
+const double margin_semi_medium = 20;
+const double margin_normal_extra = 18;
+const double margin_normal = 16;
+const double margin_semi_normal = 12;
+const double margin_small = 8;
+const double margin_xsmall = 4;
+const double margin_xxsmall = 2;
+
+const double text_8 = 8;
+const double text_9 = 9;
+const double text_10 = 10;
+const double text_12 = 12;
+const double text_13 = 13;
+const double text_14 = 14;
+const double text_15 = 15;
+const double text_16 = 16;
+const double text_17 = 17;
+const double text_18 = 18;
+const double text_20 = 20;
+const double text_21 = 21;
+const double text_22 = 22;
+const double text_24 = 24;
+const double text_26 = 26;
+const double text_30 = 30;
+const double text_32 = 32;
+const double text_11 = 11;
+
+const double testLayoutMargin = 8;
+const double testTextLarge = 24;
+const double dimen_semi_medium = 48;
+const double dimen_medium = 80;
+const double lineSpacingMinus1 = 1;
+const double lineSpacing_6 = 6;
+const double lineSpacing_5 = 5;
+
+const double px_0 = 0;
+const double px_1 = 1;
+const double px_10 = 10;
+const double px_15 = 15;
+const double px_2 = 2;
+const double px_7 = 7;
+const double px_16 = 16;
+const double px_25 = 25;
+const double px_30 = 30;
+const double px_42 = 42;
+const double px_4 = 4;
+const double px_28 = 28;
+const double px_20 = 20;
+const double px_8 = 8;
+const double px_9 = 9;
+const double px_60 = 60;
+const double px_61 = 61;
+const double px_90 = 90;
+const double px_52 = 52;
+const double px_35 = 35;
+const double px_40 = 40;
+const double px_18 = 18;
+const double px_44 = 44;
+const double px_50 = 50;
+const double px_6 = 6;
+const double px_12 = 12;
+const double px_14 = 14;
+const double px_21 = 21;
+const double px_27 = 27;
+const double px_32 = 32;
+const double px_48 = 48;
+const double px_96 = 96;
+
+
+const double px_3 = 3;
+const double px_24 = 24;
+const double px_26 = 26;
+const double px_64 = 64;
+const double px_70 = 70;
+const double px_82 = 82;
+const double px_36 = 36;
+const double px_38 = 38;
+
+const double dashboardActionItemDrawableHeight = 32;
+const double dashboardActionItemDrawableWidth = 32;
+
+const double px_100 = 100;
+const double px_106 = 106;
+const double px_115 = 115;
+const double px_120 = 120;
+const double px_150 = 150;
+const double px_175 = 175;
+
+const double icon_12 = 12;
+const double icon_14 = 14;
+const double icon_15 = 15;
+const double icon_16 = 16;
+const double icon_18 = 18;
+const double icon_20 = 20;
+const double icon_24 = 24;
+const double icon_28 = 28;
+const double icon_32 = 32;
+const double icon_36 = 36;
+const double icon_40 = 40;
+const double icon_44 = 44;
+const double icon_48 = 48;
+const double icon_52 = 52;
+const double icon_54 = 54;
+const double icon_56 = 56;
+const double icon_60 = 60;
+const double icon_64 = 64;
+const double icon_96 = 96;
+const double icon_100 = 100;
+const double icon_112 = 112;
+const double icon_120 = 120;
+const double icon_138 = 138;
+const double icon_160 = 160;
+const double icon_164 = 164;
+const double icon_180 = 180;
+const double icon_250 = 250;
+const double icon_240 = 240;
